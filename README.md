@@ -1,12 +1,10 @@
 # Premier_League_Analysis
 # dataset: "premier-player-23-24"
 
-I first ranked and graphed the top 20 goal scorers from the 23/24 Premier League season to get a better visual as to who was netting the highest volume of goals. As an avid fan of the Premier League, this ranking came as no surprise. This was a easy way to get familiar with the data set, and which columns/statistics might be useful for my analysis later on. I was able to pull a list of each column title in the dataset making me fully aware of which columns were going to be of value.
-
+I first ranked and graphed the top 20 goal scorers from the 23/24 Premier League season to get a better visual as to who was netting the highest volume of goals. As an avid fan of the Premier League this ranking came as no surprise - this was a easy way to get familiar with my data set. Early on, I pulled a list of each column title in the dataset so I could get an early view of which statsitics would be of value to me in this project. For this step of the project I used the 'Gls' column as the driving metric for my ranking. I created a bar chart with the final rankings (See Top 20 Goal Scorers.png)
 
 From there, I decided to take a list of the best goal scorers and see how efficent they were - I took total goals per player and compared that to total minutes played. I used the below formula as my basis for determining efficiency:
 Total minutes / Total goals = goals per minute (efficiency) 
-
 
 
 Lastly, I took the top 10 of the top 20 goal scorers and compared (side by side) a players actual goals with their expected goals (See expected_goals.png)
