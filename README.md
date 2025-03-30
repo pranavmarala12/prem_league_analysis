@@ -6,7 +6,7 @@ From there, I decided to take a list of the best goal scorers and see how effice
 
 Total minutes / Total goals = goals per minute (efficiency) 
 
-Lastly, I took the top 10 of the top 20 goal scorers and compared (side by side) a players actual goals with their expected goals (See expected_goals)
+Lastly, I took the top 10 of the top 20 goal scorers and compared (side by side) a players actual goals with their expected goals (See expected_goals.png)
 I wanted to compare actual goals scored with the expected goals to figure out - whuch player capitalized on their chances? 
 
 
