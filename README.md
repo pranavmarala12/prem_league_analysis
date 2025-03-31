@@ -7,6 +7,6 @@ From there, I wanted to take that ranking and see which players were the most ef
 Total minutes / Total goals = goals per minute (efficiency) 
 What I found interesting about this part of the project was that the data very closely followed the pattern from the first part of the project.
 
-Lastly, I took the top 10 of the top 20 goal scorers and did a side by side comparison of a players actual goal count with their respective expected goals (expected_goals.png) Expected Goals (xG) is a soccer specific statistic that takes things such as positioning, speed, and even player footing into consideration that equals xG. I wanted to compare actual goals scored with their xG to figure out whuch player capitalized on their chances the most. 
+Lastly, I took the top 10 of the top 20 goal scorers and did a side by side comparison of a players actual goal count with their respective expected goals (expected_goals.png). Expected Goals (xG) is a soccer specific statistic that takes things such as positioning, speed, and even player footing into consideration that equals xG. I wanted to compare actual goals scored with their xG to figure out whuch player capitalized on their scoring chances the most. 
 
-I went into this project with a rough idea of what the outcomes would look like but I wanted to challenge myself to use Python to confirm my...
+I went into this project with a rough idea of what the outcomes for each section would look like but I wanted to challenge myself to use Python to confirm. This was a rewarding exercise that allowed me to go deeper into the numbers behind the Premier League.
