@@ -9,4 +9,4 @@ What I found interesting about this part of the project was that the data very c
 
 Lastly, I took the top 10 of the top 20 goal scorers and did a side by side comparison of a players actual goal count with their respective expected goals (expected_goals.png). Expected Goals (xG) is a soccer specific statistic that takes things such as positioning, speed, and even player footing into consideration that equals xG. I wanted to compare actual goals scored with their xG to figure out whuch player capitalized on their scoring chances the most. 
 
-I went into this project with a rough idea of what the outcomes for each section would look like but I wanted to challenge myself to use Python to confirm. This was a rewarding exercise that allowed me to go deeper into the numbers behind the Premier League.
+I went into this project with a rough idea of what the outcomes for each section would look like but I wanted to challenge myself to use Python to confirm. This was a rewarding exercise that allowed me to go deeper into the statistics behind the Premier League.
